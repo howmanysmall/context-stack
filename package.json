@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/context-stack",
-	"version": "1.0.0",
+	"version": "1.0.0-patch.11",
 	"description": "ContextStack component for React.",
 	"main": "out/init.lua",
 	"scripts": {
@@ -23,8 +23,8 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.0",
-		"@rbxts/compiler-types": "2.3.0-types.2",
-		"@rbxts/types": "^1.0.805",
+		"@rbxts/compiler-types": "^3.0.0-types.0",
+		"@rbxts/types": "^1.0.810",
 		"@typescript-eslint/eslint-plugin": "^7.18.0",
 		"@typescript-eslint/parser": "^7.18.0",
 		"eslint": "^8.57.0",
@@ -35,7 +35,7 @@
 		"eslint-plugin-roblox-ts": "^0.0.36",
 		"eslint-plugin-unicorn": "^55.0.0",
 		"prettier": "^3.3.3",
-		"roblox-ts": "next",
+		"roblox-ts": "^3.0.0",
 		"typescript": "^5.5.4"
 	},
 	"dependencies": {
